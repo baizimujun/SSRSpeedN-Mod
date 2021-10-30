@@ -1,7 +1,7 @@
 # SSRSpeedN-Mod
 [机场奈飞解锁批量检测工具](https://github.com/youshandefeiyang/SSRSpeedN-Mod)基于项目[PauperZ/SSRSpeedN](https://github.com/PauperZ/SSRSpeedN)，流媒体解锁检测包含：奈飞、YouTuBe Premium、巴哈姆特、Disney Plus、TVB系列、Abema TV、HBO MAX，砍掉测速功能（频繁测速会给机场其他用户造成巨大的影响），仅输出流媒体解锁检测，几乎不消耗任何流量！<br/>
 ## 效果预览：
-![avatar](https://cdn.jsdelivr.net/gh/youshandefeiyang/webcdn@v4.5/share.png)
+![avatar](https://cdn.jsdelivr.net/gh/youshandefeiyang/webcdn@v4.6/share.png)
 ## 使用方法【仅保证在Windows端正常运行】：
 1.安装Python 3.10.0（本项目以提供）！
 
