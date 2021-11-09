@@ -8,4 +8,4 @@
 2.在检测工具根目录打开`开始检测.bat`，首先输入`3`获取管理员权限，然后输入`2`安装好运行所需依赖，安装好依赖后退出，重新打开`开始检测.bat`，输入`1`并按照提示开始检测！
 
 3.不会的可以去看[视频教程](https://www.youtube.com/watch?v=tTv1muckTFg)！
-## Mac OS端使用教程：[点击直达]（https://github.com/chinnsenn/SSRSpeedN-Mod-Mac）
+## Mac OS端使用教程：[点击直达](https://github.com/chinnsenn/SSRSpeedN-Mod-Mac)
